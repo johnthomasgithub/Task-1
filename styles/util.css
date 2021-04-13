@@ -1,0 +1,18 @@
+.margin {
+    margin: auto;
+}
+.font-inter{
+    font-family: Inter;
+}
+.flex {
+    display: flex;
+  }
+  .flex-justifyc {
+    justify-content: center;
+  }
+  .flex-justifye {
+    justify-content: space-evenly;
+  }
+  .flex-wrap {
+    flex-wrap: wrap;
+  }

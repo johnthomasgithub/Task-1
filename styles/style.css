@@ -1,0 +1,110 @@
+@import "util.css";
+body {
+  height: 1860px;
+}
+.h1prop {
+  margin-top: 50px;
+  margin-bottom: 15px;
+  font-size: 20px;
+  font-weight: bold;
+}
+.text-1 {
+  margin: auto;
+  text-align: center;
+  width: 817px;
+  height: 75px;
+  font-size: 20px;
+  font-weight: normal;
+}
+.h2prop {
+  margin-top: 30px;
+  margin-bottom: 50px;
+  font-size: 20px;
+  font-weight: bold;
+}
+.h3prop {
+  margin-top: 30px;
+  margin-bottom: 50px;
+  font-size: 20px;
+  font-weight: bold;
+}
+.font {
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.6px;
+  color: var(--black);
+}
+.image-1 {
+  display: block;
+  margin: auto;
+}
+.rect {
+  margin: 24px 31px;
+  text-align: center;
+}
+.sq-size {
+  width: 200px;
+  height: 200px;
+}
+.square-blue {
+  background-color: #319cea;
+}
+.square-green {
+  background-color: #3ed319;
+}
+.square-purple {
+  background-color: #ba31ea;
+}
+.box-size {
+  width: 200px;
+  height: 200px;
+  box-sizing: border-box;
+}
+.blue-box {
+  border: solid 5px #1fa7f4;
+}
+.green-box {
+  border: solid 5px #3ed319;
+}
+.purple-box {
+  border: solid 5px #ba31ea;
+}
+.rect-pos {
+  width: 390px;
+  height: 120px;
+  margin-top: 40px;
+  margin-right: 3%;
+  border: solid 5px #1fa7f4;
+}
+body {
+  height: 1860px;
+}
+.box {
+  margin-top: 40px;
+}
+.text-flex-size {
+  width: 100%;
+}
+.rect-font {
+  font-family: Inter;
+  font-size: 20px;
+  letter-spacing: 0.6px;
+  line-height: 1.25;
+}
+.logo {
+  position: fixed;
+  bottom: 1%;
+  right: 5%;
+}
+.ellipse-cont {
+  font-size: 50px;
+  font-family: Inter;
+}
+.ellipse {
+  width: 106px;
+  height: 98px;
+  background-color: #1fa7f4;
+  border-radius: 50%;
+}
+
